@@ -1,0 +1,1 @@
+xcopy webapp\*.* D:\java_tools\apache-tomcat-7.0.37\webapps\servletDemo /s /e /y
